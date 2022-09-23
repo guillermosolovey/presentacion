@@ -1,2 +1,2 @@
 # presentacion
-Este es un repo de prueba para usar git en RStudio - test
+Este es un repo de prueba para usar git en RStudio
